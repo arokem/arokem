@@ -1,6 +1,6 @@
 ## Hello! 
 
-I am an Research Assistant Professor at the University of Washington Department of Psychology and a data scientist at the [eScience Institute](https://escience.washington.edu)
+I am a Research Assistant Professor at the University of Washington Department of Psychology and a data scientist at the [eScience Institute](https://escience.washington.edu)
 
 I lead the [Neuroinformatics R&D Group](https://neuroinformatics.uw.edu/). 
 
