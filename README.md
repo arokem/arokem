@@ -1,9 +1,7 @@
 ## Hello! 
 
-I am a Research Associate Professor at the University of Washington Department of Psychology and a data scientist at the [eScience Institute](https://escience.washington.edu)
+I am an AI Scientist with the [Krembil Centre for Neuroinformatics](http://www.krembilneuroinformatics.ca) at the [Centre for Addiction and Mental Health](https://camh.ca/), a Professor (affilated Scientist) at the [University of Toronto Department of Psychiatry](https://psychiatry.utoronto.ca/faculty/ariel-rokem), and affiliate faculty at the [Vector Institute](https://vectorinstitute.ai/).
 
-I lead the [Neuroinformatics R&D Group](https://neuroinformatics.uw.edu/). 
+My [research group](https://rokemlab.github.io) specializes in the application of data science methods to fundamental and applied neuroscience questions.
 
-I also direct a [summer school in neuroimaging and data science](https://neurohackademy.org)
-
-I am a contributor and part of the core development team of [DIPY](https://dipy.org), which is open-source software for analysis of brain diffusion MRI data and computational neuroanatomy.
+I contribute to a range of open-source software projects, including long-standing membership in the team that creates and maintains [DIPY](https://github.com/dipy).
